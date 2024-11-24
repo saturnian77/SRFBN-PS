@@ -15,7 +15,7 @@ If you encounter any problems using the code, please refer to [SRFBN Issue Threa
 - Matlab 
 - einops
 
-### Testset Preparation (By SRFBN authors)
+### Testset Preparation (from [SRFBN repository](https://github.com/Paper99/SRFBN_CVPR19))
 
 1. You can first download SR benchmark (Set5, Set14, B100, Urban100 and Manga109) from [GoogleDrive](https://drive.google.com/file/d/1fC0AeoCLK8Oo3utnVa3E_r_45sJla4d1/view) or [BaiduYun](https://pan.baidu.com/s/1pTw5EE-N-GclI7Yj5SnnOA)(code:z6nz).
 
