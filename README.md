@@ -1,5 +1,4 @@
-# Partial Kernel Sharing: Improved Parameter-sharing Methods for Single Image Super-Resolution Networks
-Anonymous WACV25 submission .<br>
+# Partial Filter-Sharing: Improved Parameter-sharing Methods for Single Image Super-Resolution Networks
 
 ### SRFBN-PS Repository
 Our code is built on [SRFBN_CVPR19](https://github.com/Paper99/SRFBN_CVPR19). <br/>
